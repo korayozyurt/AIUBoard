@@ -1,0 +1,16 @@
+.top-space{
+    padding-top: 280px;
+    background:#E5EBF2;
+}
+
+.capital{
+	text-transform: uppercase;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.head-right{
+	padding-right: 9px;
+}
